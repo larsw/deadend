@@ -1,0 +1,27 @@
+{
+  "name": "deadend",
+  "version": "0.1.0",
+  "description": "A tiny 404 server",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsw/deadend.git"
+  },
+  "keywords": [
+    "docker",
+    "404",
+    "deadend"
+  ],
+  "author": "Lars Wilhelmsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsw/deadend/issues"
+  },
+  "homepage": "https://github.com/larsw/deadend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "morgan": "^1.9.1",
+    "xterm": "^4.4.0"
+  }
+}
